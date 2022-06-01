@@ -1,19 +1,17 @@
 # wouldPay-project1
 
 ## Good Apple
-```
-A webpage that allows users to easily search and compare the prices, ratings and reviews of a wide range of products from various retailer. The one stop shop for all your product review needs!
-```
 
-## User Story
-```
-As an every day consumer
-I want to look at the reviews of products from various retailers
-So that I can better compare prices and decide where and what to buy based off prices and reviews from other consumers
-```
-## Link
+A webpage that allows users to easily search and compare the prices, ratings and reviews of a wide range of products from Amazon, Walmart and Otto. The one stop shop for all your product review needs!
+
+
+## Installation
+
+Simply clone the repository and open up the files in an IDE of your choice. On index.html, open up on your browser and begin using. 
+
+## Deployed Link
+Deployed using github pages.
 Visit our website at: https://swagshall.github.io/wouldPay-project1/
-
 
 ## Mock-Up
 <img src=".\assets\imgs\GoodAppleWireframe.png" alt="screenshot of wireframe">
